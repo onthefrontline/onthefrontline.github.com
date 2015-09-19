@@ -20,7 +20,6 @@ owner:
   twitter:        onthefrontline
   facebook:       onthefrontline
   github:         onthefrontline    
-  instagram:      onthefrontline
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/
 
@@ -38,9 +37,9 @@ links:
     external: false
     icon: home
   - title: Categories
-    url: /categories
+    url: /categorias
   - title: About
-    url: /about
+    url: /sobre
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
