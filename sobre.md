@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /sobre/index.html
 title: Amey Jadiye
 tags: [Amey, Jadiye]
 chart: true

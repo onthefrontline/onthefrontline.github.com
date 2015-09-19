@@ -524,11 +524,11 @@ html, body, .notepad-post-container, .notepad-post-header {
       margin-right: auto; } }
 
 ::selection {
-  background: #006699;
+  background: #361524;
   color: #fff; }
 
 ::-moz-selection {
-  background: #006699;
+  background: #361524;
   color: #fff; }
 
 pre {
