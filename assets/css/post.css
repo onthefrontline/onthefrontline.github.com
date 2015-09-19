@@ -381,7 +381,9 @@ html, body, .notepad-post-container, .notepad-post-header {
   .notepad-page-menu-header .notepad-blog-logo,
   .notepad-post-menu-header-simple .notepad-blog-logo {
     display: inline-block;
-    max-height: 5rem; }
+    max-height: 5rem;
+	padding-top: 1em;
+	padding-left: 1em;	}
     .notepad-page-menu-header .notepad-blog-logo img,
     .notepad-post-menu-header-simple .notepad-blog-logo img {
       max-height: 5rem; }
