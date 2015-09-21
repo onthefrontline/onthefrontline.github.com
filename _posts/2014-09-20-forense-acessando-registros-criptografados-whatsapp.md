@@ -13,7 +13,7 @@ tags:
 
 Forensic - Acessando registros de conversas criptografados do Whatsapp
 
-## Mas afinal, o que é Ciência Forense? ##
+## Mas, afinal, o que é Ciência Forense? ##
 
 A Ciência Forense é responsável pela preservação, identificação, extração, documentação e interpretação de uma prova.
 
