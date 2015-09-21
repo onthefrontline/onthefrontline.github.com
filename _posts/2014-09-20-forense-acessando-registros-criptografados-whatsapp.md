@@ -52,17 +52,17 @@ cd WhatsAppMapper
 
 + Colocaremos o arquivo msgstore.db.crypt está na mesma pasta do WhatsAppMapper e então executaremos:
 
-[<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-folder.jpg)
+[<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-folder.jpg "Colocando o banco na mesma pasta do Programa")
 
 {% highlight bash%}
 ./WhatsAppMapper msgstore.db.crypt arquivo-log
 {%endhighlight%}
 
-<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 75%;width: 75%;"/>
+[<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-cmd.jpg "Executando o Programa")
 
 + Após a execução, ele salvará o log na pasta ***out/*** abra no seu navegador, conforme a imagem:
 
-<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 75%;width: 75%;"/>
+[<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-log.jpg "Exibindo o Log")
 
 Como vocês podem observar na imagem acima, o LOG gerou um HTML com um Menu com todos os números dos contatos do WhatsApp, basta clicar em cada número para ler as mensagens.
 
