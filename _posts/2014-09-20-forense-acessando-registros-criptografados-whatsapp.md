@@ -1,7 +1,7 @@
 ---
 author: OntheFrontLine
 layout: post
-title: "Forensic - Acessando registros de conversas criptografados do Whatsapp"
+title: "Forensic - Acessando registros de conversas do Whatsapp"
 date: 2014-09-21 00:00
 comments: true
 category : forensic
@@ -10,6 +10,8 @@ tags:
 - criptografia
 - dorks
 ---
+
+Forensic - Acessando registros de conversas criptografados do Whatsapp
 
 ## Mas afinal, o que é Ciência Forense? ##
 
@@ -35,22 +37,34 @@ intitle:"Index of" "WhatsApp Databases"
 
 ## Ferramentas ##
 
-+ Python
++ Python ([Windows](https://www.python.org/downloads/ "Download Python for Windows")) (apt-get install idle-python3.4)
 + Whatsapp Mapper by SixP4ck3r ([Download 1](http://www.mediafire.com/download/1ubi67d67rddaf6/WhatsAppMapper.zip "Download Opção 1") ou [Download 2](http://www.mediafire.com/download/ayuxmixmg4avc16/WhatsAppMapper.zip "Download WhatsApp Mapper"))
 
+## Utilização ##
 
-+ First thing is to install ADB and Fastboot to your machine, i use ubuntu so **apt-get** is easy way to get it.
-
-{% highlight python%}
-sudo add-apt-repository ppa:phablet-team/tools
-sudo apt-get update
-sudo apt-get install android-tools-adb android-tools-fastboot
++ Após o download do arquivo, vamos descompactá-lo e executá-lo:
+{% highlight bash%}
+sudo su
+cd Downloads
+unzip WhatsAppMapper.zip
+cd WhatsAppMapper
 {%endhighlight%}
 
-+ Now connect  Nexus 4 to your machine via USB, make sure you enable your USB debugging ON, so start USB Debugging go to Settings >> Developer Options >> USB debugging. (If you dont have Developer Options go to Settings >> About Phone >> Build number and tap on Build number until you become developer).
++ Colocaremos o arquivo msgstore.db.crypt está na mesma pasta do WhatsAppMapper e então executaremos:
 
-<img src="{{ site.url }}/images/nxs2.png" style="height: 25%;width: 25%;"/>
-<img src="{{ site.url }}/images/nxs1.png" style="height: 25%;width: 25%;"/>
+<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 50%%;width: 50%;"/>
+
+{% highlight bash%}
+./WhatsAppMapper msgstore.db.crypt arquivo-log
+{%endhighlight%}
+
+<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 50%%;width: 50%;"/>
+
++ Após a execução, ele salvará o log na pasta ***out/*** abra no seu navegador, conforme a imagem:
+
+<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 50%%;width: 50%;"/>
+
+
 
 Now try below commands to make sure you are connected to machine.
 
