@@ -52,64 +52,18 @@ cd WhatsAppMapper
 
 + Colocaremos o arquivo msgstore.db.crypt está na mesma pasta do WhatsAppMapper e então executaremos:
 
-<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 50%%;width: 50%;"/>
+[<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-folder.jpg)
 
 {% highlight bash%}
 ./WhatsAppMapper msgstore.db.crypt arquivo-log
 {%endhighlight%}
 
-<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 50%%;width: 50%;"/>
+<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 75%;width: 75%;"/>
 
 + Após a execução, ele salvará o log na pasta ***out/*** abra no seu navegador, conforme a imagem:
 
-<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 50%%;width: 50%;"/>
+<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 75%;width: 75%;"/>
 
+Como vocês podem observar na imagem acima, o LOG gerou um HTML com um Menu com todos os números dos contatos do WhatsApp, basta clicar em cada número para ler as mensagens.
 
-
-Now try below commands to make sure you are connected to machine.
-
-{% highlight bash%}
-amey@amey-xps:~$ adb devices -l
-List of devices attached 
-0202dc7rh2934b2a    device usb:3-2 product:occam model:Nexus_4 device:mako
-{%endhighlight%}
-
-+ Now unlock bootloader 
-Turn off your Nexus 4.
-Press and hold Volume Down and Power to enter the Fastboot menu.
-Connect the Nexus 4 to your computer via USB cable.
-
-{% highlight bash%}
-fastboot oem unlock
-{%endhighlight%}
-Press the Volume Up button on the Nexus 4 to accept the command and press the Power button to confirm. The bootloader will now be unlocked, you will loss all data with this.
-
-+ Download the factory image from [Google](https://developers.google.com/android/nexus/images), OR direct download clicking [HERE](https://dl.google.com/dl/android/aosp/occam-lrx21t-factory-51cee750.tgz).
-unzip it
-
-{% highlight bash%}
-tar -xf occam-lrx21t-factory-51cee750.tgz
-cd occam-lrx21t
-{%endhighlight%}
-+ Now the final step to Flash and install new lollipop image to your Nexus 4
-
-{% highlight bash%}
-adb reboot-bootloader
-sleep 15
-sudo ./flash-all.sh
-{%endhighlight%}
-
-This command will  generate following logs on your terminal, put your password if prompted, your phone may be rebooted few times.
-
-<img style="height: 25%;width: 25%;" src="{{ site.url }}/images/nxs3.jpg"/>
-
-{% highlight bash%}
-amey@amey-xps:~/Downloads/occam-lrx21t$ sudo ./flash-all.sh
-Password:
-sending 'bootloader' (2264 KB)...
-
-{%endhighlight%}
-
-If your phone missbehave after finishing, just hard reboot it pressing power button for few seconds.
-
-Happy coding ..... :)
+Good Luck...
