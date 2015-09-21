@@ -11,7 +11,7 @@ tags:
 - dorks
 ---
 
-Forensic - Acessando registros de conversas criptografados do Whatsapp
+Forensic - Acessando registros de conversas criptografadas do Whatsapp
 
 ## Mas, afinal, o que é Ciência Forense? ##
 
