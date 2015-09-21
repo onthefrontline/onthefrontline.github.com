@@ -36,7 +36,7 @@ intitle:"Index of" "WhatsApp Databases"
 ## Ferramentas ##
 
 + Python
-+ Whatsapp Mapper by SixP4ck3r
++ Whatsapp Mapper by SixP4ck3r ([Download 1](http://www.mediafire.com/download/1ubi67d67rddaf6/WhatsAppMapper.zip "Download Opção 1") ou [Download 2](http://www.mediafire.com/download/ayuxmixmg4avc16/WhatsAppMapper.zip "Download WhatsApp Mapper"))
 
 
 + First thing is to install ADB and Fastboot to your machine, i use ubuntu so **apt-get** is easy way to get it.
