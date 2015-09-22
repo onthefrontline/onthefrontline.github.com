@@ -25,7 +25,7 @@ Conhecido como o Ataque do Homem do Meio. É um dos ataques no qual uma terceira
 
 Não há qualquer interrupção do tráfego, pois a terceira pessoa redireciona os pacotes de dados ao computador destino, técnica chamada de ARP-Poisoning / ARP-Spoofing.
 
-*Em uma **explicação básica** seria como se você postasse nos Correios uma carta, o carteiro olhasse o conteúdo e depois lhe entregasse a carta.*
+*Em uma **explicação básica** seria como se alguem postasse nos Correios uma carta, o carteiro olhasse o conteúdo e depois lhe entregasse a carta para o destinatário.*
 
 ## Ferramentas ##
 
