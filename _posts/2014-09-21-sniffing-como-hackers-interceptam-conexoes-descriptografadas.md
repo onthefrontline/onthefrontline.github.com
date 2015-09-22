@@ -149,7 +149,10 @@ Start > Start Sniffing
 + Assim que ele enviar o formulário de cadastro, o ettercap irá extrair os dados da requisição, conforme imagem:
 
 
+Ele exibiu todos os detalhes preenchidos no formulário de cadastro. 
 
+
+## Conclusão ##
 
 + Para finalizar as tarefas:
 
@@ -167,7 +170,10 @@ Viu como você muitas vezes está exposto? Compreende a importância  de comprar
 
 Já imaginou quantos sites você acessa em Lan Houses, Universidades e Pontos de Acesso sem criptografia?
 
-**A Internet pode ser até grátis, mas a moeda de troca são seus dados pessoais.**
+
+
+**A Internet pode ser até grátis, ou o vizinho pode ser bacana em compartilhar a internet com você, mas a maior moeda são seus dados pessoais.**
+
 
 Lembramos que nem toda criptografia é 100% segura e que muitas conexões HTTPS também poderão ser quebradas.
 
