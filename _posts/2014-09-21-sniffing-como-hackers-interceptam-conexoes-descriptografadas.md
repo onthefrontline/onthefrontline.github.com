@@ -148,6 +148,7 @@ Start > Start Sniffing
 
 + Assim que ele enviar o formulário de cadastro, o ettercap irá extrair os dados da requisição, conforme imagem:
 
+[<img src="{{ site.url }}/images/snifffing-ettercap-dados.png" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/snifffing-ettercap-dados.png "Moleque Maroto se cadastrando")
 
 Ele exibiu todos os detalhes preenchidos no formulário de cadastro. 
 
