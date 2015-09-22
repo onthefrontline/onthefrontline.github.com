@@ -107,15 +107,6 @@ Hosts > Scan for Hosts
 
 Uma Lista de endereços IP e Macs será exibida, selecione o alvo e clique em **Add to Target 1**
 
-
-[<img src="{{ site.url }}/images/snifffing-ettercap-target.png" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/snifffing-ettercap-target.png "Adicionando os alvos à lista")
-
-
-+ Após a execução, ele salvará o log na pasta ***out/*** abra no seu navegador, conforme a imagem:
-
-[<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-log.jpg "Exibindo o Log")
-
-
 + O próximo passo é ativar o "Ataque do Homem do Meio" (MITM)
 
 {% highlight bash%}
