@@ -17,8 +17,7 @@ Forensic - Acessando registros de conversas criptografadas do Whatsapp
 
 A Ciência Forense é responsável pela preservação, identificação, extração, documentação e interpretação de uma prova.
 
-O objetivo da computação forense é recuperar o registros e mensagens de dados existente em um computador, de modo a que toda a informação digital, pode ser usado como
-prova. 
+O objetivo da computação forense é recuperar os registros e mensagens de dados existentes em um computador, de modo que toda a informação digital possa ser usado como prova. 
 
 
 ## Estudo de Caso ##
@@ -33,7 +32,7 @@ Recentemente foi [descoberta uma nova Dork](https://www.exploit-db.com/ghdb/4073
 intitle:"Index of" "WhatsApp Databases" 
 {%endhighlight%}
 
-*¹ Dork ou Google Dork, é uma seqüência de pesquisa, que utiliza operadores para encontrar a informação que não está prontamente disponível em um site. *
+*¹ Dork ou Google Dork é uma seqüência de pesquisa que utiliza operadores para encontrar a informação que não está prontamente disponível em um site. *
 
 ## Ferramentas ##
 
@@ -50,7 +49,7 @@ unzip WhatsAppMapper.zip
 cd WhatsAppMapper
 {%endhighlight%}
 
-+ Colocaremos o arquivo msgstore.db.crypt está na mesma pasta do WhatsAppMapper e então executaremos:
++ Colocaremos o arquivo msgstore.db.crypt na mesma pasta do WhatsAppMapper e então executaremos:
 
 [<img src="{{ site.url }}/images/whatsappmapper-folder.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-folder.jpg "Colocando o banco na mesma pasta do Programa")
 
@@ -60,7 +59,8 @@ cd WhatsAppMapper
 
 [<img src="{{ site.url }}/images/whatsappmapper-cmd.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-cmd.jpg "Executando o Programa")
 
-+ Após a execução, ele salvará o log na pasta ***out/*** abra no seu navegador, conforme a imagem:
++ Após a execução, ele salvará o log na pasta ***out/***. 
++ Abra no seu navegador, conforme a imagem:
 
 [<img src="{{ site.url }}/images/whatsappmapper-log.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/whatsappmapper-log.jpg "Exibindo o Log")
 

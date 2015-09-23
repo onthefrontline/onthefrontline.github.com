@@ -25,7 +25,7 @@ Conhecido como o Ataque do Homem do Meio. É um dos ataques no qual uma terceira
 
 Não há qualquer interrupção do tráfego, pois a terceira pessoa redireciona os pacotes de dados ao computador destino, técnica chamada de ARP-Poisoning / ARP-Spoofing.
 
-*Em uma **explicação básica** seria como se alguem postasse nos Correios uma carta, o carteiro olhasse o conteúdo e depois lhe entregasse a carta para o destinatário.*
+*Em uma **explicação básica** seria como se você postasse nos Correios uma carta, o carteiro olhasse o conteúdo e depois  entregasse a carta a você.*
 
 ## Ferramentas ##
 
@@ -164,11 +164,11 @@ Já imaginou quantos sites você acessa em Lan Houses, Universidades e Pontos de
 
 
 
-**A Internet pode ser até grátis, ou o vizinho pode ser bacana em compartilhar a internet com você, mas a maior moeda são seus dados pessoais.**
+**A Internet pode até ser grátis, ou o vizinho pode ser bacana em compartilhar a internet com você, mas a maior moeda são seus dados pessoais.**
 
 
 Lembramos que nem toda criptografia é 100% segura e que muitas conexões HTTPS também poderão ser quebradas.
 
-Caso você queira saber como se proteger destes ataques, fique aguardando o próximo post.
+Caso você queira saber como se proteger destes ataques, aguarde o próximo post.
 
 Good Luck...
