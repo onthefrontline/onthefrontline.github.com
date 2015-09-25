@@ -2,7 +2,7 @@
 author: OntheFrontLine
 layout: post
 title: "Sniffing - Detectando anomalias na rede"
-date: 2014-09-21 00:00
+date: 2014-09-24 00:50
 comments: true
 category : sniffing
 tags:
