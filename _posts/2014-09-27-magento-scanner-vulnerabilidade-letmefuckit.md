@@ -19,7 +19,7 @@ Scanner and Exploit Magento
 
 O SQLi (SQL Injection) permite que atacantes injetem dados não confiáveis ​​ no banco de dados do alvo. Com este tipo de vulnerabilidade explorada no Magento, o atacante pode executar determinadas ações no banco de dados como a adição de um cupom para obter um desconto sobre um determinado produto ou mesmo adicionando uma conta de administrador para obter acesso administrativo no site.
 
-O Magento é um dos principais distribuidores de CMS para o comércio eletrônico. Ele atualmente mantém duas versões de sua aplicação; uma edição para comunidade e uma edição Enterprise.
+O Magento é um dos principais distribuidores de CMS para o comércio eletrônico. Ele atualmente mantém duas versões de sua aplicação, uma edição para comunidade e uma edição Enterprise.
 
 ## O Scanner ##
 
@@ -39,10 +39,15 @@ O **LetMeFuckIt** foi escrito em Python e utiliza as seguintes bibliotecas:
 
 ## Opções ##
 
---dork <dork>
---user <user>
---pwd <password>
---pages <number>
+--dork < dork >
+
+
+--user < user >
+
+--pwd < password >
+
+--pages < number >
+
 --help 
 
 ## Dorks Recomendadas##
@@ -86,7 +91,7 @@ Se o erro aparecer, apenas aguarde 1 minuto ou 2. O Scanner voltará ao normal.
 
 ## Defendenda-se! ##
 
-Instale agora o PATCH 5344 ou superior em no [site oficial do Magento](https://www.magentocommerce.com/download "Download do Patch de Segurança") 
+Instale agora o PATCH 5344 ou superior no [site oficial do Magento](https://www.magentocommerce.com/download "Download do Patch de Segurança") 
 
 
 -------------
