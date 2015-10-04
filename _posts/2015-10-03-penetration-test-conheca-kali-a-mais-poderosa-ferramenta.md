@@ -6,7 +6,7 @@ date: 2015-10-03 07:00
 comments: true
 category : forensic
 tags:
-- kali-linux
+- kali
 - pentest
 ---
 
@@ -39,8 +39,6 @@ Kali é uma ferramenta gratuita e sempre será. O sistema está disponível em v
 
 Esta distribuição é voltada para pessoas que já têm alguma experiência com Linux.
 
-
-{% vimeo 132329259 %}
 
 ## Download ##
 
