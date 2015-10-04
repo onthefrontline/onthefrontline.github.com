@@ -31,9 +31,7 @@ Inúmeras empresas como o [Google](https://www.google.com/about/appsecurity/rewa
 
 ## Kali: O mais poderoso Canivete Suíço para Pentest ##
 
-Kali Linux é um projeto Open Source mantido e financiada pela Offensive Security. Uma distribuição Linux baseada no Debian que visa testes avançados de penetração e auditoria de segurança. Kali contém centenas de ferramentas destinadas a várias tarefas de segurança da informação, tais como testes de penetração, forense e engenharia reversa.
-
-O Sistema Operacional conta com mais de 600 programas para testes de penetração. 
+Kali Linux é um projeto Open Source mantido e financiada pela Offensive Security. Uma distribuição Linux baseada no Debian que visa testes avançados de penetração e auditoria de segurança. Kali contém centenas de ferramentas (600+) destinadas a várias tarefas de segurança da informação, tais como testes de penetração, forense e engenharia reversa.
 
 Kali é uma ferramenta gratuita e sempre será. O sistema está disponível em vários idiomas e você poderá rodá-lo via Live CD, ou seja, executá-lo em um pendrive / cd sem a necessidade de instalá-lo. 
 
