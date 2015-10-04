@@ -4,11 +4,13 @@ logo:             logo_onthefrontline.png
 disqus_shortname: blog.onthefrontline.com.br
 share:            true
 dropcap:	   	  true
+email:			  develop@onthefrontline.com.br
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	 http://blog.onthefrontline.com.br
-  
+ 
+ 
 # Owner/author information
 owner:
   name:           OntheFrontLine
@@ -43,6 +45,8 @@ links:
     url: http://onthefrontline.com.br
   - title: About
     url: /sobre
+  - title: Contact
+    url: /contato
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
