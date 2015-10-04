@@ -1,7 +1,7 @@
 ---
 author: OntheFrontLine
 layout: post
-title: "Saiba por que você deve conhecer a distribuição Linux: KALI"
+title: "Pentest - Introdução a testes de Penetração."
 date: 2015-10-03 07:00
 comments: true
 category : forensic
@@ -10,9 +10,9 @@ tags:
 - pentest
 ---
 
-Introdução a testes de Penetração.
+Saiba por que você deve conhecer a distribuição Linux: KALI
 
-[<img src="{{ site.url }}/images/pentest.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/pentest.png "Pentest to expose")
+[<img src="{{ site.url }}/images/pentest.png" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/pentest.png "Pentest to expose")
 
 
 ## O que é Pentest? (Penetration Test) ##
