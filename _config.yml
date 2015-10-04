@@ -38,9 +38,8 @@ links:
     icon: home
   - title: Categories
     url: /categorias
-  - title: Our Services
-    url: http://onthefrontline.com.br
-	external: true
+  - title: Services
+    external-url: http://onthefrontline.com.br
   - title: About
     url: /sobre
 
