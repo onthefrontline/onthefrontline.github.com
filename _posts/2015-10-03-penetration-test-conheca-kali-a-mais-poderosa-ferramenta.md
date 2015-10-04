@@ -4,10 +4,9 @@ layout: post
 title: "Pentest - Introdução a testes de Penetração."
 date: 2015-10-03 07:00
 comments: true
-category : forensic
+category : pentest
 tags:
 - kali
-- pentest
 ---
 
 Saiba por que você deve conhecer a distribuição Linux: KALI
