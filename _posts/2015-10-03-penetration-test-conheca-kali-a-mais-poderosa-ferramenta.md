@@ -12,7 +12,7 @@ tags:
 
 Introdução a testes de Penetração.
 
-[<img src="{{ site.url }}/images/pentest.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/pentest.jpg "Pentest to expose")
+[<img src="{{ site.url }}/images/pentest.jpg" style="height: 75%;width: 75%;"/>]({{ site.url }}/images/pentest.png "Pentest to expose")
 
 
 ## O que é Pentest? (Penetration Test) ##
