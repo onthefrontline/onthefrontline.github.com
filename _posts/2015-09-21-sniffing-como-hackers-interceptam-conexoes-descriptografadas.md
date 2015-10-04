@@ -2,7 +2,7 @@
 author: OntheFrontLine
 layout: post
 title: "Sniffing - Como hackers interceptam conexões descriptografadas"
-date: 2014-09-22 00:50
+date: 2015-09-22 00:50
 comments: true
 category : sniffing
 tags:

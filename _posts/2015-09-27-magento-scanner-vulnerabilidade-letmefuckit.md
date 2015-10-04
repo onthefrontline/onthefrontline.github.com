@@ -2,7 +2,7 @@
 author: OntheFrontLine
 layout: post
 title: "Magento - Verificação de vulnerabilidade com o Scanner LetMeFuckIt"
-date: 2014-09-27 23:00
+date: 2015-09-27 23:00
 comments: true
 category : magento
 tags:

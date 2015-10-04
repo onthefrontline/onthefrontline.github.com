@@ -2,7 +2,7 @@
 author: OntheFrontLine
 layout: post
 title: "Forensic - Acessando registros de conversas do Whatsapp"
-date: 2014-09-21 00:00
+date: 2015-09-21 00:00
 comments: true
 category : forensic
 tags:
