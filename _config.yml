@@ -9,6 +9,9 @@ dropcap:	   	  true
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	 http://blog.onthefrontline.com.br
 
+embedly:
+  api_key: 2124833a0732489387beff23735a879f
+  
 # Owner/author information
 owner:
   name:           OntheFrontLine
