@@ -37,7 +37,8 @@ Kali é uma ferramenta gratuita e sempre será. O sistema está disponível em v
 
 Esta distribuição é voltada para pessoas que já têm alguma experiência com Linux.
 
-{% youtube HQYcgvISi9Y %}
+Teaser de lançamento: [https://www.youtube.com/watch?v=HQYcgvISi9Y](https://www.youtube.com/watch?v=HQYcgvISi9Y "Kali 2.0")
+
 
 ## Download ##
 
