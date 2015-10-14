@@ -64,7 +64,7 @@ Mas eu sei que na verdade você utiliza algo assim:
 
 4.	 **Tenha em mente que você sempre estará exposto**.
 	
-	`Se não for hoje, pode ser amanhã!`
+	Se não for hoje, pode ser amanhã!
 
 
 ## As Gigantes que já expuseram os seus "clientes" ##
@@ -116,6 +116,10 @@ Fevereiro de 2012, 1.3 milhões de contas expostas, emails e senhas em texto lim
 
 Há 3 sites mais comuns para verificação, os sites reúnem informações parciais sobre os dados divulgados. 
 Você poderá verificar se algum dos seus usuários, endereços de e-mail e até mesmo senhas se já foram expostas.
+
+Apenas o site do Mark Burnett's revela a senha do usuário que você informar, os outros são apenas para mera consulta. 
+
+Veja abaixo os sites mais comuns para verificação:
 
 
 ## Haveibeenpwned.com ##
