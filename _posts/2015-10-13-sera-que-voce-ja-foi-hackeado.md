@@ -54,10 +54,10 @@ Mas eu sei que na verdade você utiliza algo assim:
 
 	Mas não acaba por aí, nesta lista podemos incluir até mesmo o Sistema Operacional mais utilizado no mundo, o Windows. Ele possui um Backdoor nativo, a porta dos fundos para os penetras da NSA. 
 
-	Quanto a sua rede, você já deve ter lido nossa outra postagem sobre: [Sniffing - Como hackers interceptam conexões descriptografadas ](http://blog.onthefrontline.com.br/sniffing/2015/09/22/sniffing-como-hackers-interceptam-conexoes-descriptografadas/ "Sniffing - Como hackers interceptam conexões descriptografadas ")
+	Quanto à sua rede, você já deve ter lido nossa outra postagem sobre: [Sniffing - Como hackers interceptam conexões descriptografadas ](http://blog.onthefrontline.com.br/sniffing/2015/09/22/sniffing-como-hackers-interceptam-conexoes-descriptografadas/ "Sniffing - Como hackers interceptam conexões descriptografadas ")
 
 
-3.	**O site ou serviço não possui criptografia ou elas não são fortes o suficientes** 
+3.	**O site ou serviço não possui criptografia ou elas não são fortes o suficiente** 
 
 	Ainda há sites que não utilizam qualquer criptografia para armazenar os dados de seus usuários.
 
@@ -118,9 +118,9 @@ Há 3 sites mais comuns para verificação, os sites reúnem informações parci
 Você poderá verificar se algum dos seus usuários, endereços de e-mail e até mesmo senhas se já foram expostas.
 
 
-## Havibeenpwned.com ##
+## Haveibeenpwned.com ##
 
-Acesse o site [Havibeenpwned.com](Havibeenpwned.com "Have I been Pwned?") e digite seu usuário ou e-mail para verificação.
+Acesse o site [Haveibeenpwned.com](Haveibeenpwned.com "Have I been Pwned?") e digite seu usuário ou e-mail para verificação.
 
 O sistema irá verificar em mais de 56 sites hackeados entre as 223.326.480 contas se há algum registro seu. 
 
