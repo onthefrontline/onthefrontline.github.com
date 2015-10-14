@@ -30,7 +30,7 @@ ou desta:
 
     %zXUkCR0yz022b%4vp*Xp
 
-Mas eu sei que na verdade, você utiliza algo assim:
+Mas eu sei que na verdade você utiliza algo assim:
     
 	novinham1lgr4u2014
 
@@ -77,10 +77,10 @@ Quase 5 Milhões de contas (usuários e senhas) foram divulgadas.
 
 **Snapchat - 2014**
 
-Em Janeiro de 2014, O total de 4.6 Milhões de usuários e números de telefone foram expostos.
+Em Janeiro de 2014, foram 4.6 Milhões de usuários expostos (usernames e números de telefone).
 
 **Adobe - 2013**
-Em outubro de 2013, Cento e Cinquenta e Dois Milhões e Quatrocentos e Quarenta e Cinco Mil e Cento e Sessenta e Cinco acontas foram expostas. Os dados divulgados foram os usuários, e-mail, senha criptografada e a senha em texto plano.
+Em outubro de 2013, Cento e Cinquenta e Dois Milhões e Quatrocentos e Quarenta e Cinco Mil e Cento e Sessenta e Cinco contas foram expostas. Os dados divulgados foram os usuários, e-mail, senha criptografada e a senha em texto limpo.
 
 **Yahoo - 2012**
 
@@ -91,7 +91,7 @@ Em Julho de 2012, Quatrocentos e Cinquenta e Três Mil e Quatrocentos e Vinte e 
 Total de 37.103 senhas foram obtidas da Playstation Network / Sony Pictures.
 
 
-E a lista não pára, outros destaques são: Vodafone, Forbes, Patreon. 
+E a lista não para por aí, outros destaques são: Vodafone, Forbes, Patreon. 
 
 
 ## Sites pornográficos também tiveram seus clientes expostos ##
