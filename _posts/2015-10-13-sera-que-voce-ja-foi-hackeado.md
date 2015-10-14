@@ -40,20 +40,31 @@ Mas eu sei que na verdade, você utiliza algo assim:
 1. **O sistema / serviço é visado.**
 	
 	Não repita senhas! Não utilize senhas pessoais (bancárias) seja qual sistema for. Não adianta utilizar uma "senha segura" em um sistema ou serviço visado, ou seja, que é passível a hacking ou de desejo para o hacking. 
+
 	Resumindo, se você têm preguiça de escolher uma senha e resolve colocar uma senha existente tendo em mente que  "ninguém irá saber" a sua senha, pois o "site é Seguro." Simplesmente, não faça isso.
+
+	Estes sites são apenas seguros porque alguém não explorou corretamente as vulnerabilidades, ou é do interesse de alguém utilizar esta brecha.   
 
 
 2.	**Seu computador / rede estão comprometidos.**
 	
-	A probabilidade de você possuir um vírus (backdoor) em seu computador é de 20%. Sim, 20%! Levamos em conta os cracks para os programas que você utiliza, as suas extensões do seu navegador, aquele .zip que você recebeu no seu e-mail e que nem o Kaspersky identificou, porque o Crypter e binders utilizados são indetectáveis. Mas não acaba por aí, nesta lista podemos incluir até mesmo o Sistema Operacional mais comum no mundo, o Windows. Ele possui um Backdoor nativo, a porta dos fundos para os penetras da NSA. 
+	A probabilidade de você possuir um vírus (backdoor) em seu computador é de 20%. Sim, 20%! 
+
+	Levamos em conta os cracks para os programas que você utiliza, as suas extensões do seu navegador, aquele .zip que você recebeu no seu e-mail e que nem o Kaspersky identificou, porque o Crypter e binders utilizados são indetectáveis. 
+
+	Mas não acaba por aí, nesta lista podemos incluir até mesmo o Sistema Operacional mais utilizado no mundo, o Windows. Ele possui um Backdoor nativo, a porta dos fundos para os penetras da NSA. 
 
 	Quanto a sua rede, você já deve ter lido nossa outra postagem sobre: [Sniffing - Como hackers interceptam conexões descriptografadas ](http://blog.onthefrontline.com.br/sniffing/2015/09/22/sniffing-como-hackers-interceptam-conexoes-descriptografadas/ "Sniffing - Como hackers interceptam conexões descriptografadas ")
 
 
-3.	**O sites ou serviço não possui criptografia ou elas não são fortes o suficientes** (sem criptografia...ainda acontece! Acredite...). 
+3.	**O site ou serviço não possui criptografia ou elas não são fortes o suficientes** 
+
+	Ainda há sites que não utilizam qualquer criptografia para armazenar os dados de seus usuários.
 
 
 4.	 **Tenha em mente que você sempre estará exposto**.
+	
+	Se não for hoje, pode ser amanhã!
 
 
 ## As Gigantes que já expuseram os seus "clientes" ##
