@@ -64,7 +64,7 @@ Mas eu sei que na verdade você utiliza algo assim:
 
 4.	 **Tenha em mente que você sempre estará exposto**.
 	
-	Se não for hoje, pode ser amanhã!
+	`Se não for hoje, pode ser amanhã!`
 
 
 ## As Gigantes que já expuseram os seus "clientes" ##
