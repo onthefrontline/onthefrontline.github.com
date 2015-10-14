@@ -120,7 +120,7 @@ Você poderá verificar se algum dos seus usuários, endereços de e-mail e até
 
 ## Haveibeenpwned.com ##
 
-Acesse o site [Haveibeenpwned.com](Haveibeenpwned.com "Have I been Pwned?") e digite seu usuário ou e-mail para verificação.
+Acesse o site [Haveibeenpwned.com](http://Haveibeenpwned.com "Have I been Pwned?") e digite seu usuário ou e-mail para verificação.
 
 O sistema irá verificar em mais de 56 sites hackeados entre as 223.326.480 contas se há algum registro seu. 
 
