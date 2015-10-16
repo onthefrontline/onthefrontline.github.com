@@ -4,7 +4,7 @@ layout: post
 title: "USB KILLER - Conheça o famoso 'Assassino USB"
 date: 2015-10-15 00:00
 comments: true
-category : Notícias
+category : Noticias
 tags:
 - Security
 - Hardware
