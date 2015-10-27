@@ -59,4 +59,4 @@ As técnicas não necessariamente têm objetivos maliciosos. É possível, por e
 
 + BitKiller ([Windows](http://sourceforge.net/projects/bitkiller/ "Download BitKiller para Windows"))
 
-+ ExifTool ([Linux | Windows](http://sourceforge.net/projects/exiftool/ "Download ExifTool"))
++ ExifTool ([Linux e Windows](http://sourceforge.net/projects/exiftool/ "Download ExifTool"))
