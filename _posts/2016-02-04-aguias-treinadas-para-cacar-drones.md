@@ -25,9 +25,7 @@ A força policial disse que está testando outras soluções eletrônicas e fís
 Elas são boas em interceptar outras criaturas voadoras, e o vídeo (em holandês) prova muito bem essa capacidade. 
 
 
-No futuro, drones serão cada vez mais utilizados e consequentemente o número de incidentes com 
-
-drones irá aumentar. Drones também podem ser utilizado para fins criminosos. Neste momento, a polícia está trabalhando e pesquisando maneiras de prevenir o uso deste equipamento de forma ilegal.
+No futuro, drones serão cada vez mais utilizados e consequentemente o número de incidentes com drones irá aumentar. Drones também podem ser utilizado para fins criminosos. Neste momento, a polícia está trabalhando e pesquisando maneiras de prevenir o uso deste equipamento de forma ilegal.
 
 
 "Há situações em que drones não estão autorizados a voar. Isto tem quase sempre a ver com a segurança", disse Mark Wiebe, Gerente de Inovação da Unidade Nacional da Polícia.
