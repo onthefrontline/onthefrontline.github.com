@@ -33,7 +33,7 @@ drones irá aumentar. Drones também podem ser utilizado para fins criminosos. N
 "Há situações em que drones não estão autorizados a voar. Isto tem quase sempre a ver com a segurança", disse Mark Wiebe, Gerente de Inovação da Unidade Nacional da Polícia.
 
 
-> "Você pode imaginar que as pessoas querem criar belas imagens de um evento com um drone, voando em cima da multidão. Se > o drone cai do céu, pode ser perigoso para as pessoas."
+> "Você pode imaginar que as pessoas querem criar belas imagens de um evento com um drone, voando em cima da multidão. Se o drone cai do céu, pode ser perigoso para as pessoas."
 
 
 Durante uma demonstração na sexta-feira, a polícia mostrou como isso funciona na prática. Uma vez que a águia  é treinada para voar em direção aos drones, ela o agarra e o derruba.
